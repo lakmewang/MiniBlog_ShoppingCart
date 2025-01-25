@@ -28,7 +28,7 @@ This project is a PHP-based Mini Blog and Shopping Cart system. Users can regist
 - Shopping cart: Add products, view cart, and remove items.
 
 ### Home Page
-![Login Page](screenshots/Home.png)
+![Login Page](MiniBlog_ShoppingCart/screenshots/Home.png)
 
 ### Blog Management
 ![Blog Management](screenshots/Blog_Home.png)
