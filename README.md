@@ -34,7 +34,7 @@ This project is a PHP-based Mini Blog and Shopping Cart system. Users can regist
 ![Blog Management](screenshots/Blog_Home.PNG)
 
 ### Shopping Cart
-![Shopping Cart](screenshots/cart.PNG)
+![Shopping Cart](screenshots/Cart.PNG)
 
 ### Checkout
 ![Login Page](screenshots/Checkout.PNG)
